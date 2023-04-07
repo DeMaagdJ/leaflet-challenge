@@ -2,9 +2,9 @@
 Module 15 HW Assignment
 
 
-The javascript can be found in Leaflet-Part-1
+The javascript can be found in Leaflet-Part-1/static/js/logic.js
 
-The html is in the root of the repository
+The html can be found in Leaflet-Part-1/
 
 
 
